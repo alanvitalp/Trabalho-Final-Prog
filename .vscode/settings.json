@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "listadupla.h": "c",
+    "vetor.h": "c",
+    "stdio.h": "c",
+    "abb.h": "c"
+  }
+}
